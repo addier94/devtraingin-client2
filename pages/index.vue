@@ -1,4 +1,6 @@
-<template></template>
+<template>
+  <MainBanner />
+</template>
 
 <script>
 export default {};
